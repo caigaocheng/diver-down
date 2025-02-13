@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Delta-Key-Fourths.ogg-262abe1ee2071ec859ebbe53df30b34b.oggstr"
+
+[deps]
+
+source_file="res://Resources/Delta-Key-Fourths.ogg"
+dest_files=[ "res://.import/Delta-Key-Fourths.ogg-262abe1ee2071ec859ebbe53df30b34b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
